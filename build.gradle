@@ -2,6 +2,7 @@ import java.nio.charset.StandardCharsets
 
 plugins {
     id 'java'
+    id("io.qameta.allure") version "2.11.2"
 }
 
 group 'com.restassured'
@@ -23,6 +24,13 @@ ext.depVersions = [
 ]
 
 dependencies {
+    runtimeOnly group: 'org.aspectj', name: 'aspectjweaver', version: '1.9.19'
+    implementation group: 'io.qameta.allure', name: 'allure-testng', version: '2.21.0'
+    implementation group: 'io.qameta.allure', name: 'allure-commandline', version: '2.21.0'
+    implementation group: 'io.qameta.allure', name: 'allure-assertj', version: '2.21.0'
+    implementation group: 'io.qameta.allure', name: 'allure-rest-assured', version: '2.21.0'
+    implementation group: 'io.qameta.allure', name: 'allure-java-commons', version: '2.21.0'
+
     implementation group: 'org.slf4j', name: 'slf4j-api', version: depVersions.slf4jVer
     implementation group: 'ch.qos.logback', name: 'logback-core', version: depVersions.logbackVer
     implementation group: 'ch.qos.logback', name: 'logback-classic', version: depVersions.logbackVer

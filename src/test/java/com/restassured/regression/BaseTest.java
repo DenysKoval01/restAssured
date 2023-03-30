@@ -13,7 +13,6 @@ import org.slf4j.LoggerFactory;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Listeners;
 
-@Listeners({ReportPortalTestNGListener.class})
 public class BaseTest {
     private static final Logger LOG = LoggerFactory.getLogger(BaseTest.class);
     protected Properties properties = ConfigurationReader.getPropertiesFromFile("base.properties");

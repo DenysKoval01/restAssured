@@ -22,6 +22,6 @@ public class CreateUserTest extends BaseTest {
                 Specifications.responseSpec400());
         UserRequest userRequest = new UserRequest(EMPTY, EMPTY);
         given().body(userRequest).when().contentType(ContentType.JSON)
-                .post(properties.getProperty("base.url") + "Account/v1/User").then().log().all();
+                .post("Account/v1/User").then().log().all();
     }
 }
