@@ -1,0 +1,1933 @@
+600  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1060 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1060 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1063 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1064 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1064 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1073 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@120f102b] 1223973302
+1073 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@120f102b] 1223973333
+1073 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1126 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+491  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+746  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+746  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+748  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+748  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+748  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+754  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@2cd2a21f] 1672997802
+754  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@2cd2a21f] 1672997833
+754  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+755  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+755  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+755  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+763  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+806  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+616  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1007 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1007 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1011 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1011 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1011 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1021 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@59af0466] -1869328911
+1021 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@59af0466] -1869328880
+1021 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1022 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1023 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1023 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1086 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+842  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1428 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1428 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1432 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1432 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1432 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1443 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@68c72235] -1616090176
+1444 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@68c72235] -1616090145
+1444 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1445 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1445 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1445 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1455 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1525 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1471 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1472 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1477 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1477 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1477 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1485 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@6babf3bf] -1567539894
+1485 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1485 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1486 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1486 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1559 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+664  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+929  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+930  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+932  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+933  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+933  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+937  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+938  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+938  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+938  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+938  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+945  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+975  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+461  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+804  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+804  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+807  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+807  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+807  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+813  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+813  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+814  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+814  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+814  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+823  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+867  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+639  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1097 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1097 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1101 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1101 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1101 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1109 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@3fb1549b] 1989582374
+1110 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1110 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1110 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1110 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1120 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1191 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+477  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+807  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+807  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+810  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+810  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+810  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@3fb1549b] 1989582374
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+817  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+831  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+888  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+559  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+955  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+955  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+959  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+959  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+959  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+966  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@3fb1549b] 1989582374
+966  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+966  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+966  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+966  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+978  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1026 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+555  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1141 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1142 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1147 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1147 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1147 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1159 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@3fb1549b] 1989582374
+1159 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1278 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+664  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1051 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1051 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1055 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1055 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1055 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1062 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@3fb1549b] 1989582374
+1062 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1062 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1063 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1063 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1125 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1109 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+3261 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+3262 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3269 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3270 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3270 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3285 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@7ea9e1e2] -1248908435
+3285 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3285 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3286 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3286 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3312 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3401 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+2100 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+2978 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+2979 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2990 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2992 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2992 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3017 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@7ea9e1e2] -1248908435
+3017 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3018 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3018 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3019 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3188 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1897 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+2463 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+2464 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2468 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2468 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2468 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2476 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@7ea9e1e2] -1248908435
+2476 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2476 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2476 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2476 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2541 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+2552 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+3153 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+3154 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3160 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3161 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3176 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@7ea9e1e2] -1248908435
+3177 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3177 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3177 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3178 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3283 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+454  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+795  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+796  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+798  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+798  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+798  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+804  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+804  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+804  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+804  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+805  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+812  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+848  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+467  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+746  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+747  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+750  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+750  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+750  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+757  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+765  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+800  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+467  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+813  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+813  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+815  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+816  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+816  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+821  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+822  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+822  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+822  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+822  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+829  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+871  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+507  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+785  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+785  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+788  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+788  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+788  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+794  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+795  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+795  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+795  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+795  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+804  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+839  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+455  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+717  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+717  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+719  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+719  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+719  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+725  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+725  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+726  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+734  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+773  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+622  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+927  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+927  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+930  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+930  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+930  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+936  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+937  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+937  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+937  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+937  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+947  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+984  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+959  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1362 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1362 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1366 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1366 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1366 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1373 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+1373 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1374 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1374 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1374 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1429 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1063 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1538 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1539 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1544 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1545 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1545 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1555 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1646 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+747  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1141 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1141 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1146 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1146 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1146 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1161 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+1161 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1161 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1161 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1161 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1222 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+455  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+729  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+729  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+732  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+733  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+733  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+739  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+739  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+740  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+740  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+740  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+751  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+788  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+484  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+767  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+768  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+770  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+770  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+770  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+775  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+776  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+776  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+776  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+776  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+785  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+821  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+510  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+825  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+826  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+829  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+830  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+830  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+837  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+837  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+837  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+837  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+838  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+847  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+887  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+2340 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+2923 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+2923 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2927 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2927 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2927 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2939 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@366647c2] 1833668941
+2939 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2940 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2940 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2940 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3033 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+470  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+768  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+768  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+771  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+771  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+771  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+777  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+777  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+777  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+777  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+777  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+785  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+821  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+454  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+770  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+771  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+775  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+775  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+775  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+783  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+783  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+783  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+783  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+783  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+792  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+829  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+443  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+764  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+765  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+767  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+768  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+768  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+773  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@ea6147e] 1166761481
+773  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+773  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+773  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+774  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+782  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+819  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+6927 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+7556 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+7556 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+7560 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+7560 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+7560 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+7581 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+7581 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+7582 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+7582 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+7582 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+7590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+7794 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+2211 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+3042 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+3042 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3047 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3047 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3047 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3056 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+3056 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3056 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3056 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3056 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3114 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1172 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+2133 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+2133 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2139 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2139 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2139 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2150 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+2150 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2373 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2373 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2374 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2689 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+4443 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+8941 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+8942 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+8948 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+8949 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+8949 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+8977 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@24fcf36f] 1541553402
+8978 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+9002 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+9003 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+9003 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+9056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+9573 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+531  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+897  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+897  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+901  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+901  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+901  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+914  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134345
+914  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134314
+914  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+916  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+916  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+916  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+928  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+973  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+930  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1534 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1535 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1541 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1541 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1541 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134345
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134314
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1558 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1558 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1558 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1646 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+480  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+774  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+774  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+776  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+777  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+777  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+786  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134345
+786  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134314
+787  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+789  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+789  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+789  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+797  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+841  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+549  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+957  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+957  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+962  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+962  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+962  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+975  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134345
+975  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134314
+976  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+978  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+978  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+978  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+993  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1060 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+565  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+962  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+963  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+966  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+966  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+966  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+975  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@e7edb54] 1164190943
+975  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@e7edb54] 1164190974
+975  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+976  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+976  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+976  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+987  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1040 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+999  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1531 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1532 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1537 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1538 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1538 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1552 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134345
+1552 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134314
+1553 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1555 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1555 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1556 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1645 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+538  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+906  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+906  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+909  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+909  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+909  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+916  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134345
+916  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@4d5b6aac] -2076134314
+916  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+919  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+919  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+919  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+929  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+988  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+681  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1062 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1063 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1068 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1068 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1068 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1133 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+774  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1234 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1234 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1238 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1238 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1238 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1247 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+1247 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1248 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1248 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1248 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1321 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+509  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+861  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+861  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+864  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+864  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+864  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+871  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+871  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+871  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+871  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+871  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+884  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+937  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+479  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+853  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+853  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+856  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+856  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+856  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+862  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+862  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+863  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+863  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+863  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+872  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+909  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+949  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1789 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1791 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1799 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1799 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1799 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1814 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+1814 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1815 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1815 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1815 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1835 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1905 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+2043 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+2043 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2046 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2046 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2046 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2053 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@3d5c822d] -1912979941
+2053 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2053 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2053 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2053 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2110 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+672  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1145 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1145 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1149 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1150 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1150 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1159 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+1159 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1159 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1173 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1233 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+665  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1066 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1066 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1070 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1070 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1070 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+1077 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1078 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1078 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1078 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1138 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+2364 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+2365 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2368 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2368 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2369 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2378 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@3d5c822d] -1912979941
+2378 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+2379 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+2379 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+2379 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+2393 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+2464 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+570  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+867  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+868  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+870  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+870  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+870  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+876  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.createUser()[pri:0, instance:com.restassured.regression.CreateUserTest@49c7b90e] -1704626948
+876  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+876  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+876  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+876  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+887  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+927  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+515  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+893  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+894  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+899  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+899  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+899  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+910  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@14555e0a] -387260108
+910  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@14555e0a] -387260139
+910  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+912  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+912  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+912  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+924  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+968  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+478  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+796  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+796  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+799  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+799  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+799  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+808  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@14555e0a] -387260108
+808  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@14555e0a] -387260139
+808  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+809  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+809  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+809  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+819  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+856  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+410  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+698  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+698  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+702  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+702  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+703  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+712  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@65f095f8] 981866786
+712  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@65f095f8] 981866755
+712  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+713  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+713  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+713  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+720  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+764  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+436  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+710  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+710  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+714  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+714  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+714  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+725  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@2cd2a21f] 23602505
+725  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@2cd2a21f] 23602474
+725  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+726  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+735  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+773  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+422  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+704  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+704  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+707  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+707  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+707  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+717  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@3d1cfad4] 296910334
+717  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@3d1cfad4] 296910303
+717  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+718  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+718  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+718  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+729  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+767  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+679  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1369 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1370 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1375 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1376 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1376 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1389 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@7a419da4] -1077878178
+1389 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1389 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1389 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1389 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1472 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1882 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1883 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1888 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1889 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1889 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1900 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@2b48a640] 1892150010
+1900 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1900 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1901 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1901 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1915 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1994 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+670  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1080 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1081 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1085 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1085 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1085 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1093 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@7a419da4] -1077878178
+1093 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1093 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1094 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1094 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1159 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+591  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+889  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+889  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+892  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+892  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+892  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+898  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@7a419da4] -1077878178
+898  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+898  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+898  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+898  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+907  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+945  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+593  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+946  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+946  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+949  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+950  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+950  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+957  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@7a419da4] -1077878178
+957  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+957  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+957  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+957  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+967  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1006 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+610  [Test worker] DEBUG org.testng.TestNG - suiteXmlPath: "D:\GitHub\RestAssured\src\test\resources\testng.xml"
+1007 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1008 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1014 [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1014 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1015 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1027 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1028 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1028 [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1028 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1028 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1039 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@2766ca9d] -67351097
+1039 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@2766ca9d] -67351128
+1040 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@740d2e78] -1426950141
+1040 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@740d2e78] -1426950110
+1040 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1043 [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1043 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1044 [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1139 [Test worker] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+405  [Test worker] DEBUG org.testng.TestNG - suiteXmlPath: "D:\GitHub\RestAssured\src\test\resources\testng.xml"
+626  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+626  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+629  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+629  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+630  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+636  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+636  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+636  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+636  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+636  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+642  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC2()[pri:0, instance:com.restassured.regression.CreateUserTest@5460cf3a] 687231588
+643  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CreateUserTest.TC1()[pri:0, instance:com.restassured.regression.CreateUserTest@5460cf3a] 687231557
+643  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@1c481ff2] 1395485053
+643  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@1c481ff2] 1395485084
+643  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+644  [Test worker] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+645  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+645  [Test worker] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+693  [Test worker] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+491  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+814  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+814  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+817  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+824  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@7a419da4] -1077878178
+824  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+825  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+825  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+825  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+835  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+882  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+451  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+755  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+756  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+759  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+759  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+759  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+765  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@7a419da4] -1077878178
+765  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+765  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+765  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+765  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+772  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+808  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+863  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1302 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1303 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1307 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1307 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1307 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1317 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@378542de] 2097448856
+1317 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1318 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1318 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1318 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1392 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+637  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+898  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+898  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+900  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+900  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+900  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+908  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@29e495ff] 1868815033
+908  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+908  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+908  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+908  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+915  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+955  [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+703  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5763 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5763 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5769 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5769 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5769 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5776 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+5777 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5777 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5777 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5777 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5846 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+720  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+527  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5120 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5120 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5123 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5123 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5123 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5130 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@2740e316] 1824532432
+5130 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5130 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5130 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5131 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5186 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+485  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4728 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4728 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4734 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4734 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4734 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4745 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+4745 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4746 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4746 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4746 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4870 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+882  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6344 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6345 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6351 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6352 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6352 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6366 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+6366 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6366 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6366 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6367 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6455 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+1079 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+9168 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+9169 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+9175 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+9176 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+9176 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+9188 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@f425231] 1421973227
+9188 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+9189 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+9189 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+9189 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+9204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+9303 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+494  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4487 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4487 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4491 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4491 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4491 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4500 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+4500 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4501 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4501 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4501 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4555 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+503  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4914 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4915 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4921 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4921 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4921 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4935 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+4935 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4936 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4936 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4936 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5059 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+741  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5778 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5778 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5783 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5783 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5783 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5792 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@756aadfc] -1159073098
+5793 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5793 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5793 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5793 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5863 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+679  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+8295 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+8295 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+8300 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+8300 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+8301 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+8312 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+8312 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+8313 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+8313 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+8313 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+8327 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+8407 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+470  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6694 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6695 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6702 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6702 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6702 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6715 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+6716 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6716 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6716 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6717 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6733 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6870 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+664  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5805 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5806 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5809 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5809 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5809 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5816 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@5cbd94b2] -1573070484
+5817 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5817 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5817 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5817 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5870 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+852  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6141 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6142 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6146 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6147 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6147 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6157 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+6158 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6158 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6158 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6158 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6232 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+954  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5455 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5456 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5460 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5460 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5460 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5468 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+5469 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5469 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5469 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5469 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5532 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+929  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5730 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5730 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5734 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5735 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5735 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5743 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+5743 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5744 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5744 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5744 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5817 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+646  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4798 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4799 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4802 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4802 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4802 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4810 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+4810 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4811 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4811 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4811 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4865 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+568  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4244 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4244 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4247 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4247 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4247 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4254 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+4254 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4254 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4254 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4254 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4307 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+683  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6302 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6303 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6307 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6307 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6307 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6315 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@6824b913] -1381761587
+6315 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6315 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6315 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6316 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6370 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+440  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4413 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4414 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4417 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4427 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AddBookToUserCollectionTest.TC1()[pri:0, instance:com.restassured.regression.AddBookToUserCollectionTest@3e4e8fdf] -2083662695
+4427 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4428 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4428 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4428 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4436 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4493 [main] INFO  com.restassured.regression.BaseTest - 3 properties were initialized
+2660 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+7686 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+7687 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+7693 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+7693 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+7693 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+7706 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@5dbb50f3] -1466110272
+7707 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+7707 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+7707 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+7707 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+7722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+7795 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+472  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5674 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5675 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5681 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5681 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5681 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5695 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@575c3e9b] -1573004184
+5695 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5695 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5695 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5695 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5714 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5794 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+475  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4114 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4115 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4118 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4118 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4118 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4125 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@575c3e9b] -1573004184
+4125 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4125 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4125 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4126 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4172 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+539  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+8658 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+8659 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+8665 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+8665 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+8666 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+8679 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@53e76c11] -1630991906
+8679 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+8680 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+8680 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+8680 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+8692 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+8770 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+428  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4110 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4110 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4113 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4114 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4114 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4120 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@43b5021c] -1902731287
+4120 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4120 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4120 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4121 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4170 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+490  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6582 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6583 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6589 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6589 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6589 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6600 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@4a2e7bcb] -1794106984
+6600 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6600 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6600 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6601 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+7001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+7449 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+543  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4770 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4771 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4774 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4775 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4775 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4782 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@30893e08] 2070600661
+4782 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4782 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4783 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4783 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4790 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4836 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+467  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5751 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5752 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5756 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5756 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5756 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5764 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@4a2e7bcb] -1794106984
+5764 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5764 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5764 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5764 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5772 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5822 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+779  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5928 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5929 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5936 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5937 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5937 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5950 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@5b5a4aed] -1506023238
+5950 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5950 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5951 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5951 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6055 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+467  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5959 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5960 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5964 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5964 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5964 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5973 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@205df5dc] 1799328681
+5974 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5974 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5974 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5974 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6033 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+431  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4782 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4783 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4785 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4786 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4786 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4796 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@5b5a4aed] -1506023238
+4796 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4796 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4796 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4796 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4835 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+476  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6372 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6373 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6378 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6378 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6378 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6386 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@4a2e7bcb] -1794106984
+6387 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6387 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6387 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6387 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6458 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+442  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4404 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4405 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4409 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4409 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4410 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@575c3e9b] -1573004184
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4418 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4480 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+519  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5122 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5123 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5127 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5127 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5127 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5140 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@575c3e9b] -1573004184
+5140 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5140 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5140 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5141 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5153 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5245 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+416  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+3505 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+3506 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3509 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3509 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3509 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3515 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@2721044] 1297329681
+3515 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3516 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3516 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3516 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3523 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3560 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+644  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5483 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5484 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5488 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5489 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5489 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5497 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@66deec87] -1312781740
+5497 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5497 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5497 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5497 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5565 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+947  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5961 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5961 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5965 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5966 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5966 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5977 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@66deec87] -1312781740
+5978 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5978 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5978 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5978 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5991 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6048 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+586  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5143 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5143 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5148 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5148 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5148 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5155 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE AuthorizedUserTest.authorizedUser()[pri:0, instance:com.restassured.regression.AuthorizedUserTest@1cfc2538] 1482439332
+5155 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5156 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5156 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5156 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5164 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5208 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+570  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+5073 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+5074 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5078 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5079 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5079 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5087 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@53e76c11] -1630991906
+5087 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+5087 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+5087 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+5087 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+5095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+5390 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+406  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+3621 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+3621 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3624 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3624 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3624 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3629 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@6a1d6ef2] -1258353473
+3629 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3629 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3629 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3629 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3636 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3672 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+415  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+6166 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+6166 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6171 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6171 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6171 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6183 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@42cc183e] -1917995509
+6183 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+6183 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+6184 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+6184 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+6194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+6274 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+618  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+4792 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+4793 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4797 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4797 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4797 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4806 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@575c3e9b] -1573004184
+4806 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+4807 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+4807 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+4807 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+4818 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4878 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+412  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+3968 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+3969 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3971 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3971 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3972 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3977 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@3451f01d] 2134085098
+3977 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+3977 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+3977 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+3977 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+3984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+4025 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+423  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+681  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+682  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+685  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+685  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+686  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+693  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@4e7912d8] -1722109787
+693  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+693  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+693  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+694  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+702  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+743  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+458  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+716  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+716  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+719  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+719  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+719  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE DeleteBookFromUserTest.TC1()[pri:0, instance:com.restassured.regression.DeleteBookFromUserTest@732c2a62] -1106393041
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+726  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+726  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+734  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+769  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+1013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1781 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1782 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1789 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1789 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1789 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1802 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@2b48a640] -1069949517
+1802 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1802 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1802 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1803 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1922 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+589  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+970  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+970  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+974  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+974  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+974  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+984  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC2()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@2cd2a21f] 1672997802
+985  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE GetBooksAssignedToUserTest.TC1()[pri:0, instance:com.restassured.regression.GetBooksAssignedToUserTest@2cd2a21f] 1672997833
+985  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+986  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+986  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+986  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+996  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1047 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+775  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1460 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1460 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1464 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1465 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1465 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1475 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+1475 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1476 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1476 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1476 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1490 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1557 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+719  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1154 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1154 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1158 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1158 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1158 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1166 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+1166 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1166 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1166 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1166 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1230 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+470  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+873  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+873  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+877  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+877  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+877  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+885  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+886  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+886  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+886  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+886  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+898  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+958  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+638  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1034 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1035 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1041 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1041 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1041 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1055 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@2cd2a21f] -1044129390
+1055 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1056 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1056 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1056 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1135 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+486  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+861  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+861  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+864  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+865  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+865  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+873  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+873  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+873  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+873  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+873  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+882  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+928  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+711  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1205 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1206 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1210 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1210 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1210 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1218 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+1218 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1218 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1219 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1219 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1274 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+692  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1145 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1145 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1149 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1150 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1150 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1160 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1238 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+906  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1495 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1495 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1501 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1501 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1501 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1513 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+1514 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1514 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1514 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1514 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1609 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+523  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+806  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+807  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+809  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+809  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+809  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+816  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+817  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+817  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+827  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+868  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+457  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+746  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+747  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+750  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+750  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+750  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+756  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@7a419da4] 254989591
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+757  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+757  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+767  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+800  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+441  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+731  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+731  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+733  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+734  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+734  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+739  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@41e1e210] -690808445
+740  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+740  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+740  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+740  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+750  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+795  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+419  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+806  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+808  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+811  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+812  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+812  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+821  [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@2cd2a21f] -1044129390
+821  [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+822  [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+822  [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+822  [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+834  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+886  [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized
+691  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1060 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE BaseTest.beforeWholeTest()[pri:0, instance:null] -1245366797
+1061 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1064 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1064 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1064 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1073 [main] DEBUG org.testng.internal.Graph - [Graph] ADDING NODE CommonTest.end2endtest()[pri:0, instance:com.restassured.regression.CommonTest@74455848] 154570683
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+1074 [main] DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+1084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denys_Koval\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+1131 [main] INFO  com.restassured.regression.BaseTest - 4 properties were initialized

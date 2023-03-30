@@ -1,0 +1,60 @@
+import java.nio.charset.StandardCharsets
+
+plugins {
+    id 'java'
+}
+
+group 'com.restassured'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext.depVersions = [
+        slf4jVer          : '1.7.36',
+        logbackVer        : '1.2.11',
+        assertJVer        : '3.22.0',
+        testNgVer         : '7.5',
+        apacheIoVer       : '2.11.0',
+        reportPortalTestNg: '5.1.1',
+        restAssured       : '5.3.0',
+        restAssur         : '2.9.0'
+]
+
+dependencies {
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: depVersions.slf4jVer
+    implementation group: 'ch.qos.logback', name: 'logback-core', version: depVersions.logbackVer
+    implementation group: 'ch.qos.logback', name: 'logback-classic', version: depVersions.logbackVer
+    implementation group: 'commons-io', name: 'commons-io', version: depVersions.apacheIoVer
+    implementation "com.epam.reportportal:agent-java-testng:${depVersions.reportPortalTestNg}"
+    implementation "com.epam.reportportal:logger-java-logback:${depVersions.reportPortalTestNg}"
+    implementation "com.jayway.awaitility:awaitility:1.7.0"
+    testImplementation group: 'org.assertj', name: 'assertj-core', version: depVersions.assertJVer
+    testImplementation group: 'org.testng', name: 'testng', version: depVersions.testNgVer
+    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: depVersions.restAssured
+    compileOnly group: 'org.projectlombok', name: 'lombok-maven-plugin', version: '1.18.20.0'
+
+}
+
+tasks.withType(JavaCompile).configureEach { task ->
+    task.options.release.set(17)
+    task.options.encoding(StandardCharsets.UTF_8.name())
+}
+
+wrapper {
+    distributionType = Wrapper.DistributionType.ALL
+    gradleVersion = '7.5.1'
+}
+
+test {
+    useTestNG() {
+        useDefaultListeners = true
+        suites 'src/test/resources/testng.xml'
+    }
+
+    testLogging {
+        events "PASSED", "FAILED", "SKIPPED"
+    }
+    systemProperties System.getProperties()
+}
