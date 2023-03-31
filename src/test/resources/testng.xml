@@ -2,9 +2,9 @@
 
 
 <suite name="Rest Assured Test Suite" verbose="1" >
-    <listeners>
+<!--    <listeners>
         <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
-    </listeners>
+    </listeners>-->
     <test name="Rest Assured">
         <classes>
             <class name="com.restassured.regression.CreateUserTest"/>
