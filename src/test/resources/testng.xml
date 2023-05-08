@@ -7,8 +7,8 @@
     </listeners>-->
     <test name="Rest Assured">
         <classes>
-            <class name="com.restassured.regression.CreateUserTest"/>
-            <class name="com.restassured.regression.GetBooksAssignedToUserTest"/>
+            <class name="com.restassured.regression.api.CreateUserTest"/>
+            <class name="com.restassured.regression.api.GetBooksAssignedToUserTest"/>
         </classes>
     </test>
 </suite>

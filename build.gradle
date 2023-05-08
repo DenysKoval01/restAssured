@@ -13,35 +13,55 @@ repositories {
 }
 
 ext.depVersions = [
-        slf4jVer          : '1.7.36',
-        logbackVer        : '1.2.11',
-        assertJVer        : '3.22.0',
-        testNgVer         : '7.5',
-        apacheIoVer       : '2.11.0',
-        reportPortalTestNg: '5.1.1',
-        restAssured       : '5.3.0',
-        restAssur         : '2.9.0'
+        seleniumVer        : '4.1.2',
+        webDriverManagerVer: '5.1.0',
+        slf4jVer           : '1.7.36',
+        logbackVer         : '1.2.11',
+        assertJVer         : '3.22.0',
+        testNgVer          : '7.5',
+        apacheIoVer        : '2.11.0',
+        reportPortalTestNg : '5.1.1',
+        selenideVer        : '6.3.4',
+        restAssured        : '5.3.0',
+        restAssur          : '2.9.0'
 ]
 
 dependencies {
+
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-api', version: depVersions.selenium
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-remote-driver', version: depVersions.selenium
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-support', version: depVersions.selenium
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: depVersions.selenium
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-edge-driver', version: depVersions.selenium
+    implementation group: 'io.github.bonigarcia', name: 'webdrivermanager', version: depVersions.webDriverManagerVer
+    implementation project(path: ':')
+    implementation project(path: ':')
+
     runtimeOnly group: 'org.aspectj', name: 'aspectjweaver', version: '1.9.19'
     implementation group: 'io.qameta.allure', name: 'allure-testng', version: '2.21.0'
     implementation group: 'io.qameta.allure', name: 'allure-commandline', version: '2.21.0'
     implementation group: 'io.qameta.allure', name: 'allure-assertj', version: '2.21.0'
     implementation group: 'io.qameta.allure', name: 'allure-rest-assured', version: '2.21.0'
     implementation group: 'io.qameta.allure', name: 'allure-java-commons', version: '2.21.0'
+    implementation group: 'com.codeborne', name: 'selenide', version: depVersions.selenideVer
+    implementation "com.epam.reportportal:agent-java-testng:${depVersions.reportPortalTestNg}"
+    implementation "com.epam.reportportal:logger-java-logback:${depVersions.reportPortalTestNg}"
 
     implementation group: 'org.slf4j', name: 'slf4j-api', version: depVersions.slf4jVer
     implementation group: 'ch.qos.logback', name: 'logback-core', version: depVersions.logbackVer
     implementation group: 'ch.qos.logback', name: 'logback-classic', version: depVersions.logbackVer
     implementation group: 'commons-io', name: 'commons-io', version: depVersions.apacheIoVer
-    implementation "com.epam.reportportal:agent-java-testng:${depVersions.reportPortalTestNg}"
-    implementation "com.epam.reportportal:logger-java-logback:${depVersions.reportPortalTestNg}"
     implementation "com.jayway.awaitility:awaitility:1.7.0"
     testImplementation group: 'org.assertj', name: 'assertj-core', version: depVersions.assertJVer
     testImplementation group: 'org.testng', name: 'testng', version: depVersions.testNgVer
-    testImplementation group: 'io.rest-assured', name: 'rest-assured', version: depVersions.restAssured
+    implementation group: 'io.rest-assured', name: 'rest-assured', version: depVersions.restAssured
     compileOnly group: 'org.projectlombok', name: 'lombok-maven-plugin', version: '1.18.20.0'
+
+
+/*    implementation "com.jayway.restassured:rest-assured:${depVersions.restAssur}"
+    implementation "com.jayway.restassured:rest-assured-common:${depVersions.restAssur}"
+    implementation "com.jayway.restassured:json-path:${depVersions.restAssur}"
+    implementation "com.jayway.restassured:xml-path:${depVersions.restAssur}"*/
 
 }
 

@@ -1,4 +1,4 @@
-package com.restassured.regression;
+package com.restassured.regression.api;
 
 
 
@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.given;
 import com.restassured.api.request.user.UserRequest;
 import org.testng.annotations.Test;
 
-public class AuthorizedUserTest extends BaseTest{
+public class AuthorizedUserTest extends BaseApiTest {
 
 
     @Test

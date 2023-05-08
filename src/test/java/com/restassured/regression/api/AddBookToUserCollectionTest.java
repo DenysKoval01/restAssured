@@ -1,24 +1,23 @@
-package com.restassured.regression;
+package com.restassured.regression.api;
 
 
 import static io.restassured.RestAssured.given;
 
 import com.restassured.api.request.book.AddBookToUserCollection;
 import com.restassured.api.response.book.AllBooksAfterAdded;
-import com.restassured.info.Specifications;
-import io.restassured.http.ContentType;
+import com.restassured.common.info.Specifications;
 import io.restassured.response.Response;
 import java.util.ArrayList;
 import java.util.List;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class AddBookToUserCollectionTest extends BaseTest {
+public class AddBookToUserCollectionTest extends BaseApiTest {
 
     @Test(description = "Запит даних щодо валідного ID")
     public void TC1() {
-        String bookIsbn = "9781593275846";
-        Specifications.installSpecification(Specifications.requestSpec(properties.getProperty("base.url")),
+        String bookIsbn = "9781449365035";
+        Specifications.installSpecification(
                 Specifications.responseSpec201());
         AddBookToUserCollection.CollectionOfIsbn list = new AddBookToUserCollection.CollectionOfIsbn();
         list.isbn = bookIsbn;
@@ -27,8 +26,8 @@ public class AddBookToUserCollectionTest extends BaseTest {
         AddBookToUserCollection addBookToUserCollection =
                 new AddBookToUserCollection(properties.getProperty("user.id"), collectionOfIsbns);
         Response response =          given().header("Authorization",token)
-                .body(addBookToUserCollection).when().contentType(ContentType.JSON)
-                .post(properties.getProperty("base.url") + "BookStore/v1/Books");
+                .body(addBookToUserCollection).when()
+                .post("BookStore/v1/Books");
 
         AllBooksAfterAdded.AddedBooks isbnOfBook =
                 response.getBody().as(AllBooksAfterAdded.class).books.get(0);

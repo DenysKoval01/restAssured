@@ -1,4 +1,4 @@
-package com.restassured.regression;
+package com.restassured.regression.api;
 
 
 import static io.restassured.RestAssured.given;
@@ -7,13 +7,13 @@ import static org.apache.commons.lang3.StringUtils.EMPTY;
 
 import com.restassured.api.response.book.BookInformation;
 import com.restassured.api.response.user.UserNotFound;
-import com.restassured.info.Specifications;
+import com.restassured.common.info.Specifications;
 import io.restassured.response.Response;
 import java.util.List;
 import org.assertj.core.api.Assertions;
 import org.testng.annotations.Test;
 
-public class GetBooksAssignedToUserTest extends BaseTest {
+public class GetBooksAssignedToUserTest extends BaseApiTest {
 
 
     @Test(description = "Запит даних щодо валідного ID")
@@ -25,7 +25,7 @@ public class GetBooksAssignedToUserTest extends BaseTest {
 
     @Test(description = "Запит даних щодо не валідного ID")
     public void TC2() {
-        Specifications.installSpecification(Specifications.requestSpec(properties.getProperty("base.url")),
+        Specifications.installSpecification(
                 Specifications.responseSpec401());
         Response response = given().header("Authorization",
                         token)
