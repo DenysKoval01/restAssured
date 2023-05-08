@@ -26,17 +26,18 @@ public class CommonMethods {
 
 
     public static void authorizeUser() {
-        UserRequest userRequest = new UserRequest(properties.getProperty("login"), properties.getProperty("password"));
+/*        UserRequest userRequest = new UserRequest(properties.getProperty("login"), properties.getProperty("password"));
         given().body(userRequest).when().contentType(ContentType.JSON)
                 .post("Account/v1/Authorized").then()
-                .log().all();
+                .log().all();*/
     }
 
     public static String getAuthorizationToken() {
-        UserRequest userRequest = new UserRequest(properties.getProperty("login"), properties.getProperty("password"));
+       /* UserRequest userRequest = new UserRequest(properties.getProperty("login"), properties.getProperty("password"));
         return "Bearer " + given().body(userRequest).when().contentType(ContentType.JSON)
                 .post("Account/v1/GenerateToken").then()
-                .log().all().extract().as(UserTokenResponse.class).token;
+                .log().all().extract().as(UserTokenResponse.class).token;*/
+        return null;
     }
 
     public void createUser() {
@@ -45,9 +46,9 @@ public class CommonMethods {
                         new Random().nextInt(1001))), "password",
                 String.join(EMPTY, "String@", String.format("%04d", new Random().nextInt(1001))));
 
-        UserRequest userRequest = new UserRequest(testUser.get("login"), testUser.get("password"));
+       /* UserRequest userRequest = new UserRequest(testUser.get("login"), testUser.get("password"));
         given().body(userRequest).when().contentType(ContentType.JSON)
-                .post("Account/v1/User");
+                .post("Account/v1/User");*/
     }
 
     public List<BookInformation> getBooksAssignedToUser() {

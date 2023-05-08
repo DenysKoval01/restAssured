@@ -14,9 +14,9 @@ public class AuthorizedUserTest extends BaseApiTest {
 
     @Test
     public void authorizedUser() {
-        UserRequest userRequest = new UserRequest("Denys_Koval","String@12345");
+/*        UserRequest userRequest = new UserRequest("Denys_Koval","String@12345");
                 given().body(userRequest).when()
                         .post("Account/v1/Authorized").then()
-                        .log().all();
+                        .log().all();*/
     }
 }

@@ -34,8 +34,6 @@ dependencies {
     implementation group: 'org.seleniumhq.selenium', name: 'selenium-chrome-driver', version: depVersions.selenium
     implementation group: 'org.seleniumhq.selenium', name: 'selenium-edge-driver', version: depVersions.selenium
     implementation group: 'io.github.bonigarcia', name: 'webdrivermanager', version: depVersions.webDriverManagerVer
-    implementation project(path: ':')
-    implementation project(path: ':')
 
     runtimeOnly group: 'org.aspectj', name: 'aspectjweaver', version: '1.9.19'
     implementation group: 'io.qameta.allure', name: 'allure-testng', version: '2.21.0'

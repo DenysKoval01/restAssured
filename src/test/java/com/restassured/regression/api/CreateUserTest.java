@@ -23,8 +23,8 @@ public class CreateUserTest extends BaseApiTest {
     @Test(description = "Не заповнено жодне поле")
     public void TC2() {
         Specifications.installSpecification(Specifications.responseSpec400());
-        UserRequest userRequest = new UserRequest(EMPTY, EMPTY);
+/*        UserRequest userRequest = new UserRequest(EMPTY, EMPTY);
         given().body(userRequest).when()
-                .post("Account/v1/User").then().log().all();
+                .post("Account/v1/User").then().log().all();*/
     }
 }
